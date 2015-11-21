@@ -1,0 +1,30 @@
+{
+  "name": "atlt",
+  "description": "Amin Tannery Ltd. Web Template.",
+  "main": "index.js",
+  "authors": [
+    "Zaber"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Web",
+    "Template",
+    "tannery"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "owl.carousel": "owl-carousel2#~2.0.0-beta.3"
+  }
+}
